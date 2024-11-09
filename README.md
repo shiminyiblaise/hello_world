@@ -46,11 +46,10 @@ This is the first technical Codegisoft Academy project it tests more on Git, Git
 ### Key Features <a name="key-features"></a>
 
 - *Understanding Git, GitHub and GitHub Workflow*
-- *Configuring Linters*
+- *Configuring Linters
 - *Creating pull requests and merging*
-
 A demo link will be uploaded subsequently.
-
+-  Creating html and css files.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -67,8 +66,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 sh
-  cd my-folder
-  git clone https://github.com/ngalamac/Hello-Codegisoft Academy.git
+  week of fsd/HELLO_WORLD
+  https://github.com/shiminyiblaise/hello_world.git
 
 
 ### Install
@@ -76,7 +75,7 @@ sh
 Install this project with:
 
 sh
-  cd my-folder
+  cd HELLO_WORLD
   npm install
 
 
@@ -114,6 +113,7 @@ sh
 
 - integration with javascript
 - Adding more html contents
+- Add Some css contents
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -125,4 +125,4 @@ I will like to thank Codegisoft Academy and all the students i've collaborated w
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [LICENSE](LICENSE.md) licensed.
